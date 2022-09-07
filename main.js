@@ -23,7 +23,7 @@ gsap.registerPlugin(ScrollTrigger);
             duration: 1.5,
             scale: 1,
         });
-         TweenMax.to($(".hiddenImage video"), .7, {scaleX:1, scaleY:1, opacity:1});
+  
         
         var center = document.getElementById("cent");
         center.className += " relative";
