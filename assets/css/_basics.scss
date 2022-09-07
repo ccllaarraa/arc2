@@ -83,7 +83,7 @@ body {
     }
     99% {
         filter: blur(4px);
-        -webkit-filter: blur(4px),
+        -webkit-filter: blur(4px);
     }
      100%{
         width: calc(100vw - 526px);
